@@ -19,9 +19,8 @@ When people land on your website, they want to know who you are, what you do, an
 
 Most people use their About page to share a brief biography. This is the place to share the most important details that are relevant to your professional life:
 
-Markup : * Bullet list
-Markup: * Your education
-Your skills and expertise
-Your latest job or project you worked on
+- Your education
+- Your skills and expertise
+- Your latest job or project you worked on
 
 You can also include a brief section about what matters most to you, what causes you believe in, and a few hobbies to make it more engaging and to show off your personality.
