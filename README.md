@@ -6,7 +6,7 @@ Company(Innovellent Technologies Pvt Ltd)_Live_Project.
 
 Download all files and put it in one folder. After that run index.html file on your favorite browser.
 
-Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4, JavaScript.
+Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4, JavaScript, jQuery.
 
 Duration: Apr, 2019.
 
